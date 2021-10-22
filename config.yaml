@@ -1,0 +1,11 @@
+fields:
+  - "level"
+  - "x-b3-traceid"
+  - "service"
+  - "rpc"
+  - "message"
+  - "request"
+  - "response"
+skips:
+  - "request authenticated and authorized successfully"
+  - "auth: skipping auth"
