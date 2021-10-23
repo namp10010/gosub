@@ -8,7 +8,7 @@ this can be used to read message your application sends to the emulator. there i
 ### install
 
 ```bash
-  go install https://github.com/namp10010/gosub
+  go install https://github.com/namp10010/gosub@latest
 ```
 
 ### usage
